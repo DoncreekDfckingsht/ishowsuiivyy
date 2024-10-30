@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 2%;
+    background: linear-gradient(to right, #000000, #000000)
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 6.5em;
+    margin: 0% 0% 3% 0%;
+    font-family: Nuntion, sans-serif;
+    -webkit-text-stroke: 2px rgb(250, 250, 250);
+    color: white;
+}
+p{
+    font-size: 5em;
+    margin: 3% 0% 3% 0%;
+    font-family: Nunito, sans-serif;
+    -webkit-text-stroke: 2px rgb(248, 248, 248);
+    color: white;
+    margin-bottom: -4%;
+}
